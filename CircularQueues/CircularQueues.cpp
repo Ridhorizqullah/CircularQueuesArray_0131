@@ -115,7 +115,12 @@ public:
 };
 
 
+int main() {
+	queue q;
+	char ch;
+	
 
+}
 
 
 
