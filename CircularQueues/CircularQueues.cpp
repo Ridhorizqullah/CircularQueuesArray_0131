@@ -40,7 +40,11 @@ public:
 
 	}
 
+	void remove() {
+		//cek apakah antrian kosong 
 
+
+	}
 	
 
 };
